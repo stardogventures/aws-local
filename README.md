@@ -1,6 +1,6 @@
 # aws-local
 
-Local S3 implementation and fileserver for Java 9+
+Local S3 implementation and fileserver for Java 8+
 
 This module provides a highly incomplete implementation of `AmazonS3`
 which loads and stores files in a folder in the local filesystem.
